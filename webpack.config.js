@@ -1,6 +1,5 @@
 var path = require('path')
 var webpack = require('webpack')
-var autoprefixer = require('autoprefixer')
 var precss = require('precss')
 var postcssCssnext = require('postcss-cssnext')
 var postcssImport = require('postcss-import')
@@ -70,7 +69,6 @@ module.exports = {
 	},
 	postcss: function () {
     return [
-      autoprefixer,
       precss,
       postcssImport({addDependencyTo: webpack}),
       postcssCssnext(),

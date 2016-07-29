@@ -22,7 +22,7 @@
 @import '../../node_modules/basscss-hide/css/hide.css';
 
 @import 'variables';
-/*@import './overrides/flexboxgrid';*/
+@import './overrides/flexboxgrid';
 @import './overrides/container';
 @import './overrides/btn';
 @import './overrides/btn-outline-light';
@@ -32,8 +32,6 @@
 @import './overrides/position';
 @import './overrides/colors';
 @import './overrides/background-colors';
-
-@import './modules/link';
 
 @import './external/react-paginate';
 
