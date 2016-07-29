@@ -1,0 +1,9 @@
+.bg-paper { background-color: var(--paper) }
+.bg-purplish  { background-color: var(--purplish) }
+.bg-ocean  { background-color: var(--ocean) }
+.bg-dark-gray { background-color: var(--dark-gray) }
+.bg-before-midnight { background-color: var(--before-midnight) }
+.bg-right-before-midnight { background-color: var(--right-before-midnight) }
+.bg-midnight { background-color: var(--midnight) }
+.bg-jade { background-color: var(--jade) }
+.bg-strawberry { background-color: var(--strawberry) }

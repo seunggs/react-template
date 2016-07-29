@@ -1,0 +1,109 @@
+:root {
+  --body-color: var(--black);
+  --font-family: 'Roboto',sans-serif;
+  --body-font-size: 100%;
+  --body-font-weight: 300;
+  --heading-font-family: 'Roboto',sans-serif;
+  --heading-font-weight: 300;
+  --bold-font-weight: 500;
+  --body-letter-spacing: 0.02rem;
+  --body-line-height: 1.5;
+
+  --button-font-family: 'Roboto',sans-serif;
+  --button-font-size: 1rem;
+  --button-text-transform: uppercase;
+  --button-font-weight: 400;
+  --button-font-weight-light: 300;
+  --button-letter-spacing: 0.05rem;
+  --button-padding-top: 0.7rem;
+  --button-padding-right: 1.2rem;
+  --button-padding-bottom: 0.7rem;
+  --button-padding-left: 1.2rem;
+  --button-background-color: var(--ocean);
+  --button-border-radius: 0;
+  --button-padding-y-sm: 0.2rem;
+  --button-padding-x-sm: 0.6rem;
+
+  --link-color: var(--blue);
+  --link-hover-color: var(--dark-blue);
+  --link-muted-color: var(--metal-gray);
+  --link-muted-hover-color: var(--dark-gray);
+
+  --c3-form-field-font-size: 0.95rem;
+  --c3-form-field-height: 2rem;
+  --c3-form-field-padding-y: .25rem;
+  --c3-form-field-padding-x: 0;
+  --c3-form-label-font-size: 0.95rem;
+  --c3-form-label-font-color: var(--gray);
+  --c3-form-label-active-font-size: 0.75rem;
+  --c3-form-label-active-font-color: var(--purplish);
+  --c3-editor-field-padding-top: .2rem;
+  --c3-editor-field-padding-bottom: .35rem;
+  --c3-editor-field-padding-right: 0;
+  --c3-editor-field-padding-left: 0;
+  --c3-select-form-field-padding-y: 0.65rem;
+  --c3-select-form-field-padding-x: 0.65rem;
+
+  --border-width: 1px;
+  --border-radius: 0;
+  --border-color: var(--darken-2);
+  --border-active-width: 2px;
+
+  --c3-field-focus-color: var(--purplish);
+
+  /* grid */
+  --container-width: 64em;
+
+  /* Cool */
+  --aqua:   #7fdbff;
+  --ocean:  #3DB2C1;
+  --blue:   #0074d9;
+  --dark-blue:   #1666ab;
+  --navy:   #001f3f;
+  --teal:   #39cccc;
+  --green:  #2ecc40;
+  --olive:  #3d9970;
+  --lime:   #01ff70;
+
+  /* Warm */
+  --yellow: #ffdc00;
+  --orange: #ff851b;
+  --red:    #ff4136;
+  --fuchsia:#f012be;
+  --purple: #b10dc9;
+  --maroon: #85144b;
+
+  /* Gray scale */
+  --white:  #fff;
+  --light-silver: #e9e9e9;
+  --silver: #ddd;
+  --gray:   #aaa;
+  --metal-gray: #888;
+  --dark-gray: #333;
+  --black:  #111;
+
+  /* Custom */
+  --paper: #fafafa;
+  --purplish: #5264AE;
+  --before-midnight: #252e37;
+  --right-before-midnight: #20272e;
+  --midnight: #1c2228;
+
+  --hot-pink: #d62565;
+  --strawberry: #ff5a5f;
+
+  --light-forest: #047d4a;
+  --forest: #006b3e;
+  --dark-forest: #015e37;
+  --jade: #437264;
+
+  --darken-1: rgba(0,0,0,.0625);
+  --darken-2: rgba(0,0,0,.125);
+  --darken-3: rgba(0,0,0,.25);
+  --darken-4: rgba(0,0,0,.5);
+
+  --lighten-1: rgba(255,255,255,.0625);
+  --lighten-2: rgba(255,255,255,.125);
+  --lighten-3: rgba(255,255,255,.25);
+  --lighten-4: rgba(255,255,255,.5);
+}

@@ -1,0 +1,5 @@
+export const MAX_BID_ID = 'maxBid'
+export const MAX_DAILY_BUDGET_ID = 'maxDailyBudget'
+export const MY_ADVERTISING_FORM_ID = 'myAdvertisingForm'
+export const MY_ADVERTISING_PAGINATION_ID = 'myAdvertisingPagination'
+export const BID_ITEMS_ID = 'bidItems'

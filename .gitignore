@@ -1,0 +1,27 @@
+# node_modules
+node_modules
+report
+coverage
+tmp
+
+# integration test images and binaries
+screenshots
+seleniumDrivers
+
+# Log files
+*.log
+
+# bower_components
+bower_components
+
+### Node ###
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+.env
