@@ -39,6 +39,7 @@
     "react-paginate": "^1.0.5",
     "react-router": "^2.6.0",
     "react-tap-event-plugin": "^1.0.0",
+    "rethinkdbdash": "^2.3.19",
     "rx-lite": "^4.0.7"
   },
   "devDependencies": {
